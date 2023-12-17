@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Maksbuharic08
+- 👀 I’m interested in chess and programming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on game project
+- 📫 How to reach me https://github.com/Maksbuharic08
